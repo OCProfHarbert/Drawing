@@ -27,7 +27,7 @@ int main()
 	
 	// ********* Add code here to make the managers read from shapes file (if the file exists)
 
-	while (window.isOpen())
+	while (window.isOpen()) 
 	{
 		Event event;
 		while (window.pollEvent(event))
